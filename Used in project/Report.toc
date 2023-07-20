@@ -1,0 +1,80 @@
+\contentsline {section}{Acknowledgment}{I}{figure.caption.1}%
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Overview}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Motivation}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Problem Definition and Objectives}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Objectives:}{2}{subsection.1.3.1}%
+\contentsline {section}{\numberline {1.4}Project Scope and Limitations}{2}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Methodologies of Problem solving}{3}{section.1.5}%
+\contentsline {chapter}{\numberline {2}LITERATURE SURVEY}{4}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Software Requirement Specification}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Project Scope}{10}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Assumptions and Dependencies}{10}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}User Classes and Characteristics}{10}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Functional Requirements}{11}{section.3.3}%
+\contentsline {section}{\numberline {3.4}External Interface Requirements}{11}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}User Interfaces}{11}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Hardware Interfaces}{11}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Software Interfaces}{11}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Non Functional Requirements}{11}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Performance Requirements}{11}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Safety Requirements}{12}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Security Requirements}{12}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Software Quality Attributes}{12}{subsection.3.5.4}%
+\contentsline {section}{\numberline {3.6}System Requirements}{12}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Database Requirements}{12}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Software Requirements}{13}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Hardware Requirements}{13}{subsection.3.6.3}%
+\contentsline {section}{\numberline {3.7}Analysis Models: SDLC Model to be applied}{13}{section.3.7}%
+\contentsline {chapter}{\numberline {4}System Design}{15}{chapter.4}%
+\contentsline {section}{\numberline {4.1}System Architecture}{15}{section.4.1}%
+\contentsline {section}{\numberline {4.2}MATHEMATICAL MODEL}{17}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Data Flow Diagrams}{17}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Level 0 Data Flow Diagram}{18}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Level 1 Data Flow Diagram}{18}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Entity Relationship Diagrams}{19}{section.4.4}%
+\contentsline {section}{\numberline {4.5}UML Diagrams}{20}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Class Diagram}{20}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Use Case Diagram}{21}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Sequence Diagram}{22}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}Activity Diagram}{23}{subsection.4.5.4}%
+\contentsline {chapter}{\numberline {5}PROJECT PLAN}{24}{chapter.5}%
+\contentsline {subsection}{\numberline {5.0.1}Reconciled Estimates}{24}{subsection.5.0.1}%
+\contentsline {section}{\numberline {5.1}Project Estimate}{24}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}COCOMO Model}{24}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Reconciled Estimates}{28}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Project Resources}{29}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}Risk Management}{30}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Project Schedule}{32}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Project task set}{32}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Timeline Chart}{32}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}Team Organization}{32}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Team Structure}{32}{subsection.5.4.1}%
+\contentsline {chapter}{\numberline {6}Project Implementation}{35}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Overview of Project Modules}{35}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Tools and Technologies Used:}{35}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Algorithm Details:}{37}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Software Testing}{39}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Types of Testing}{39}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Unit Testing}{39}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Alpha Testing}{39}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}Acceptance Testing}{39}{subsection.7.1.3}%
+\contentsline {subsection}{\numberline {7.1.4}Beta Testing}{40}{subsection.7.1.4}%
+\contentsline {subsection}{\numberline {7.1.5}Performance Testing}{40}{subsection.7.1.5}%
+\contentsline {subsection}{\numberline {7.1.6}Security Testing}{40}{subsection.7.1.6}%
+\contentsline {subsection}{\numberline {7.1.7}White Box Testing}{40}{subsection.7.1.7}%
+\contentsline {subsection}{\numberline {7.1.8}Black Box Testing}{41}{subsection.7.1.8}%
+\contentsline {subsection}{\numberline {7.1.9}Regression Testing}{41}{subsection.7.1.9}%
+\contentsline {subsection}{\numberline {7.1.10}System Testing}{41}{subsection.7.1.10}%
+\contentsline {subsection}{\numberline {7.1.11}Smoke Testing}{41}{subsection.7.1.11}%
+\contentsline {subsection}{\numberline {7.1.12}Integration Testing}{42}{subsection.7.1.12}%
+\contentsline {section}{\numberline {7.2}Test Cases}{42}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Results}{44}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Outcome}{44}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Screenshots}{44}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Conclusion}{50}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Future Scope}{50}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Applications}{50}{section.9.2}%
+\contentsline {chapter}{\numberline {10}REFERENCES}{51}{chapter.10}%
+\contentsline {chapter}{Annexure \numberline {A}}{53}{appendix.1.A}%
+\contentsfinish 
